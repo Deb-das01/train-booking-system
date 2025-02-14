@@ -49,7 +49,6 @@ API_KEY=your_admin_api_key
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Deb-das01/train-booking-system.git
-   cd irctc-railway-management
    ```
    
 2. Install all necessary dependencies using npm:
